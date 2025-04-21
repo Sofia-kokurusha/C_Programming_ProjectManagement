@@ -22,6 +22,6 @@ A console-based C program to manage student records and professor supervision du
 
 ```bash
 gcc project.c -o project
-
+```
 
 *`README.md`* generated with help of ChatGPT.
